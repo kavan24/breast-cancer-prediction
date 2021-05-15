@@ -1,5 +1,1 @@
-#LetsUpgrade
-
-Topic-breast cancer prediction
-Language-Python
-Machine Learning Models:- 1.Logistic Regression 2.Decision Tree Classifier 3.Random Forest Classifier 4.Support Vector Classifier
+Brest cancer prediction using various machine learning models like logistics regression, Decision Tree Classifier, Random Forest Classifier and support Vector Classifier
